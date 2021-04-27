@@ -3,6 +3,10 @@
 Light-weight node js wrapper for [private RustCC API](https://rustcheatcheck.ru "API").
 
 ## Simple usage
+
+Just install it with 
+``npm install rust-cheat-check --save``, and here you go
+
 ``You can also provide apiUrl in constructor options to provide different url``
 
 ```javascript
